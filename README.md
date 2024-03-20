@@ -17,8 +17,25 @@ Here are some ideas to get you started:
 -->
 
 
+<head>
+    <style>
+        @font-face {
+          font-family: "BagelFatOne-Regular";
+          src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/BagelFatOne-Regular.woff2")
+            format("woff2");
+          font-weight: normal;
+          font-style: normal;
+        }
+      </style>
+</head>
+
+<body>
 <header align="center">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=061329&height=300&section=header&text=Hwangseoeun&fontSize=70&animation=fadeIn" /> -->
+    <!-- 
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=061329&height=300&section=header&text=SSUN&fontSize=70&animation=fadeIn" />
+    -->
+    
+    <!-- 
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9s&height=300&section=header" />
     <span
         style="
@@ -28,7 +45,6 @@ Here are some ideas to get you started:
           color: transparent;
           -webkit-background-clip: text;
           margin-right: -5px;
-          align-content: center;
         "
         >HWANG</span
       >
@@ -41,6 +57,17 @@ Here are some ideas to get you started:
           -webkit-background-clip: text;
         "
         >SEOEUN</span>
+    -->
+
+    <br />
+    <br />
+    <div style="display: flex; justify-content: center; align-items: center">
+      <span style="color: #ebefff; font-size: 60px; font-family: BagelFatOne-Regular; position: absolute; z-index: 3"
+        >SSUN</span
+      >
+      <div style="width: 500px; height: 150px; background-color: #2470e280; filter: blur(50px)"></div>
+    </div>
+
 </header>
 <div align="center">
     <h3>:pencil2: Still Study</h3>
@@ -48,12 +75,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+</div>
+<div align="center">
+    <h3>:open_file_folder: Tools</h3>
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&show_icons=true&theme=radical"> -->
 </div>
+</body>
