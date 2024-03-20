@@ -15,11 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <header align="center">
-    
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=061329&height=300&section=header&text=SSUN&fontSize=70&animation=fadeIn" />
-    
     <!-- 
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9s&height=300&section=header" />
     <span
@@ -43,7 +40,6 @@ Here are some ideas to get you started:
         "
         >SEOEUN</span>
     -->
-
 </header>
 <div align="center">
     <h3>:pencil2: Still Study</h3>
