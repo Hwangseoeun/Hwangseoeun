@@ -16,33 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <header align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=D4F4FA&height=300&section=header&text=SSUN&fontSize=27&animation=fadeIn" />
-    <!-- 
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9s&height=300&section=header" />
-    <span
-        style="
-          font-size: 50px;
-          font-weight: 900;
-          background: linear-gradient(to right, rgb(0, 0, 0) 30%, rgb(255, 255, 255));
-          color: transparent;
-          -webkit-background-clip: text;
-          margin-right: -5px;
-        "
-        >HWANG</span
-      >
-      <span
-        style="
-          font-size: 50px;
-          font-weight: 900;
-          background: linear-gradient(to left, rgb(0, 0, 0) 30%, rgb(255, 255, 255));
-          color: transparent;
-          -webkit-background-clip: text;
-        "
-        >SEOEUN</span>
-    -->
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:5CD1E5,100:4374D9&height=300&section=header&width=100%&text=HI!👋%20I%20AM%20SEOEUN!&fontSize=48&fontColor=F9F9F9">
 </header>
-<h3><b>안녕하세요! 황서은입니다.</b></h3>
-<hr>
+---
 <div align="center">
     <h3>:heavy_check_mark: About Me</h3>
     <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
