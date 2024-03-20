@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<header align="left">
-    <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=061329&height=300&section=header&text=SSUN&fontSize=70&animation=fadeIn" /> -->
+<header align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&fontColor=D4F4FA&height=300&section=header&text=SSUN&fontSize=27&animation=fadeIn" />
     <!-- 
     <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9s&height=300&section=header" />
     <span
@@ -40,25 +40,11 @@ Here are some ideas to get you started:
         "
         >SEOEUN</span>
     -->
-    <div style="
-        display: absolute;
-        width: 100%;
-        height: 300px;
-        top: 0;
-        left: 0;
-    ">
-        <img src="https://capsule-render.vercel.app/api?type=venom&color=0:5CD1E5,100:4374D9&height=300&section=header" style="position: relative; left: 150px;">
-        <span style="
-        -webkit-text-stroke: 1px black;
-        color: white;
-        font-size: 70px;
-        font-weight: 900;
-        position: relative;
-        bottom: 100px;
-        right: 190px;
-">ssun</span>
-    </div>
 </header>
+<div align="center">
+    <h3>:heavy_check_mark: About Me</h3>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+</div>
 <div align="center">
     <h3>:pencil2: Still Study</h3>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -71,7 +57,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-</div>
+</div><br>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
