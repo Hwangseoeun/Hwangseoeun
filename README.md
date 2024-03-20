@@ -35,9 +35,10 @@
     <div align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
     </div> -->
-<table border="0 0 0 0">
+<table border="0">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
+        <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td>
     </tr>
     <tr>
         <td>
@@ -46,7 +47,6 @@
             <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         </td>
-        <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td>
     </tr>
     <tr>
         <td><h3>:open_file_folder: Tools</h3></td>
