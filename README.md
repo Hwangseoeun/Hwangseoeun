@@ -7,6 +7,7 @@
     <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
+    [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iamheonil@gmail.com)](mailto:iamheonil@gmail.com)
     <p>:email: contact : <i>sunny030921@gmail.com</i></p>
 </div>
 
