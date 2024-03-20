@@ -10,12 +10,14 @@
     <p>:email: contact : <i>sunny030921@gmail.com</i></p>
 </div>
 
-<p text-align="center">
+  <p text-align="center">
+    
     🦁 `2023.03 ~ 2023.12` LIKELION UNIV. 11th BackEnd Mentee
     
     🦁 '2024.02 ~ ' LIKELION UNIV. 12th BackEnd Memtor
 
     💻 '2023.03 ~ ' BackEnd Developer
+    
   </p>
 
 <div align="center">
