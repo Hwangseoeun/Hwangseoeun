@@ -1,20 +1,3 @@
-<!--
-### Hi there 👋
-
-
-**Hwangseoeun/Hwangseoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <header align="center">
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:5CD1E5,100:4374D9&height=300&section=header&width=100%&text=HI!👋%20I%20AM%20SEOEUN!&fontSize=48&fontColor=F9F9F9">
 </header>
@@ -25,6 +8,15 @@ Here are some ideas to get you started:
     </a>
     <p>:email: contact : <i>sunny030921@gmail.com</i></p>
 </div>
+<p text-align="center">
+    <b>2023.03 -</b>
+    BackEnd Developer
+
+    🦁 LIKELION UNIV. 11th BackEnd Mentee(2023.3 ~ 2023.12)
+    
+    🦁 LIKELION UNIV. 12th BackEnd Memtor (2024.2 ~ )
+  </p>
+
 <div align="center">
     <h3>:pencil2: Still Study</h3>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
