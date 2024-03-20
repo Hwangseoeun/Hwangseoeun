@@ -41,9 +41,14 @@ Here are some ideas to get you started:
         >SEOEUN</span>
     -->
 </header>
+<h3><b>안녕하세요! 황서은입니다.</b></h3>
+<hr>
 <div align="center">
     <h3>:heavy_check_mark: About Me</h3>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
+    <p>:email: contact : <i>sunny030921@gmail.com</i></p>
 </div>
 <div align="center">
     <h3>:pencil2: Still Study</h3>
