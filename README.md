@@ -35,7 +35,7 @@
     <div align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
     </div> -->
-<table border="none">
+<table border="0 0 0 0">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
     </tr>
