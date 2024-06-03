@@ -32,9 +32,10 @@
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </div>
+    -->
     <div align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
-    </div> -->
+    </div> 
 <table align="center">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
