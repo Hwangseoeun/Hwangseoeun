@@ -4,13 +4,12 @@
 
 <div align="center">
     <h3>:heavy_check_mark: About Me</h3>
-    <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-    </a>
     <a href=mailto:sunny030921@gmail.com>
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:">
     </a>
-    <!-- <p>:email: contact : <i>sunny030921@gmail.com</i></p> -->
+    <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    </a>
 </div>
 
   <p text-align="center">
@@ -34,8 +33,7 @@
         <td><h3>:pencil2: Still Study</h3></td>
         <!-- <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td> -->
         <td rowspan="4">
-            <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&bg_color=60,d9cafe,caf0fe&title_color=002b3d&text_color=002b3d"/> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact&bg_color=60,d9cafe,caf0fe&title_color=002b3d&text_color=002b3d"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&bg_color=60,f1fcfc,a1deff&title_color=0c283c&text_color=0c283c"/> 
         </td>
     </tr>
     <tr>
