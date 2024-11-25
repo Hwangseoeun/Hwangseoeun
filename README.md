@@ -31,10 +31,10 @@
 <table align="center">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
-        <!-- <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td> -->
-        <td rowspan="4">
+        <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td>
+        <!-- <td rowspan="4">
             <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&bg_color=60,f1fcfc,a1deff&title_color=5b6ea2&text_color=5b6ea2"/>
-        </td>
+        </td> -->
     </tr>
     <tr>
         <td>
