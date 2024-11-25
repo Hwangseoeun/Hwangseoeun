@@ -31,7 +31,9 @@
 <table align="center">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
-        <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td>
+        <td rowspan="4">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact&bg_color=180,ffffff,00000000&title_color=031f2b&text_color=031f2b"/>
+        </td>
         <!-- <td rowspan="4">
             <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&bg_color=60,f1fcfc,a1deff&title_color=5b6ea2&text_color=5b6ea2"/>
         </td> -->
