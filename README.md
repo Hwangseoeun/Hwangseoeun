@@ -7,7 +7,10 @@
     <a href="https://www.instagram.com/ssun_h_09/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
     </a>
-    <p>:email: contact : <i>sunny030921@gmail.com</i></p>
+    <a href=mailto:sunny030921@gmail.com>
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:">
+    </a>
+    <!-- <p>:email: contact : <i>sunny030921@gmail.com</i></p> -->
 </div>
 
   <p text-align="center">
@@ -21,19 +24,7 @@
     👑 '2024.08.24 ~ 2024.08.25' 2024 GDSC KAIST SPARKLINGTHON 최우수상 수상
 
   </p><br>
-    <!-- <div align="left">
-        <h3>:pencil2: Still Study</h3>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    </div><br>
-    <div align="left">
-        <h3>:open_file_folder: Tools</h3>
-        <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-    </div>
+    <!--
     <div align="right">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact">
     </div> 
@@ -41,7 +32,11 @@
 <table align="center">
     <tr>
         <td><h3>:pencil2: Still Study</h3></td>
-        <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td>
+        <!-- <td rowspan="4"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact"></td> -->
+        <td rowspan="4">
+            <img src="https://github-readme-stats.vercel.app/api?username=Hwangseoeun&bg_color=60,d9cafe,caf0fe&title_color=002b3d&text_color=002b3d"/> 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hwangseoeun&layout=compact&bg_color=60,d9cafe,caf0fe&title_color=002b3d&text_color=002b3d"/>
+        </td>
     </tr>
     <tr>
         <td>
