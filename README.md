@@ -20,13 +20,14 @@
 
 ## :heavy_check_mark: Tech Stack
 
-![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&&logoColor=white)
 ![SPRINGBOOT](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![SpringDataJPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?&style=for-the-badge&logo=spring&logoColor=white)
+![Junit5](https://img.shields.io/badge/Junit5-25A162?&style=for-the-badge&logo=Junit5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
-![INTELLIJIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
